@@ -1,10 +1,10 @@
 h1 {
-  color:#117a67;
+  color:darkblue;
 }
 body {
   text-align: center;
   font-family: 'Itim', cursive;
-  background-color: pink;
+  background-color: lightblue;
 }
 
 #answer {
@@ -15,7 +15,7 @@ input {
 }
 
 .button {
-  background: #117a67;
+  background: darkblue;
   color: white;
   border: none;
 }
